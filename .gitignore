@@ -8,8 +8,6 @@ apps/web/node_modules/
 apps/web/.next/
 
 # Env and logs
-.env
-.env.*
 !.env.docker.example
 *.log
 
@@ -20,3 +18,7 @@ issue.md
 AGENTS.md
 GEMINI.md
 skills-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
